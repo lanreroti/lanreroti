@@ -4,6 +4,8 @@ Hi there 👋
 
 I am a CompTIA-certified IT Support Specialist with a strong foundation in diagnosing and resolving complex hardware, software, and networking issues. My background is built on delivering high-quality technical support across diverse professional industries, always with a focus on security and compliance standards.
 
+
+
 🔒 Transitioning into Cybersecurity
 
 While my career began in technical support and systems administration, my professional evolution is currently focused on Cybersecurity. I am leveraging my experience in Identity and Access Management (IAM), incident response, and networking fundamentals to transition into a dedicated security role. My goal is to apply my analytical problem-solving skills to protect organizational assets and defend against emerging digital threats.
