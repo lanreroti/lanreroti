@@ -1,6 +1,8 @@
 Hi there 👋
 
+Government Name: Olarewaju Rotimi
 
+Preferred Name: Larry Rotimi
 
 I am a CompTIA-certified IT Support Specialist with a strong foundation in diagnosing and resolving complex hardware, software, and networking issues. My background is built on delivering high-quality technical support across diverse professional industries, always with a focus on security and compliance standards.
 
